@@ -1,4 +1,4 @@
-# NEF: NEF: Neural Edge Fields for 3D Parametric Curve Reconstruction from Multi-view Images
+# NEF: Neural Edge Fields for 3D Parametric Curve Reconstruction from Multi-view Images
 
 This is the repository that contains source code for the [NEF website](https://yunfan1202.github.io/NEF/).
 
