@@ -4,7 +4,14 @@ This is the repository that contains source code for the [NEF website](https://y
 
 If you find it useful for your work please cite:
 ```
-BibTeX, coming soon
+@InProceedings{Ye_2023_CVPR,
+    author    = {Ye, Yunfan and Yi, Renjiao and Gao, Zhirui and Zhu, Chenyang and Cai, Zhiping and Xu, Kai},
+    title     = {NEF: Neural Edge Fields for 3D Parametric Curve Reconstruction From Multi-View Images},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2023},
+    pages     = {8486-8495}
+}
 ```
 
 # Website License
